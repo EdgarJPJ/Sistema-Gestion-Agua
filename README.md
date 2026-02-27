@@ -6,7 +6,7 @@
 > **Nota sobre el Código Fuente:** *Este proyecto fue desarrollado en colaboración académica y profesional. Debido a acuerdos de confidencialidad y propiedad intelectual, el código fuente completo no es público. Este repositorio sirve como documentación técnica, demostración de arquitectura y evidencia de funcionalidades.*
 
 ## 📖 Descripción del Proyecto
-**HTWO0** es una solución integral diseñada para optimizar la administración de recursos hídricos en juntas auxiliares. El sistema resuelve la problemática del desperdicio y la gestión manual mediante la automatización del control de flujo y el monitoreo en tiempo real.
+**HTWOO** es una solución integral diseñada para optimizar la administración de recursos hídricos en juntas auxiliares. El sistema resuelve la problemática del desperdicio y la gestión manual mediante la automatización del control de flujo y el monitoreo en tiempo real.
 
 El sistema permite a los administradores visualizar el consumo, gestionar usuarios y controlar el suministro de agua de forma remota mediante dispositivos IoT.
 
